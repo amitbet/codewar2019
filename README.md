@@ -3,7 +3,7 @@
 
 A CodeWar bot game based on Conway's game of life.
 
-**To install the developer environment:**
+## Installing the developer environment:
 * [Download NodeJS](https://nodejs.org/en/download/)
 * Install [git](https://git-scm.com/downloads)
 * In cmdline/bash run:
@@ -19,7 +19,7 @@ where the next position of the board is calculated by subjecting the current boa
 
 The objective of this game is to send your pixels to the other side of the screen, scoring a hit and decreasing your opponent's life force, While defending your side against such invaders.
 
-**Be sure to use these tips:**
+## Tips
 * download and install [golly](https://sourceforge.net/projects/golly/files/golly/golly-3.2/)
 
   golly is a studio where you can experiment with game of life patterns and see how they develop and interact
