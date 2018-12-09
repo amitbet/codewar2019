@@ -1,6 +1,9 @@
 # Codewar 2018
+![code war image](https://github.com/codearmada/codewar2018/blob/master/sample.gif "code war!")
+
 code war based on game of life
-to install the developer environment: 
+
+**To install the developer environment:**
 * [Download NodeJS](https://nodejs.org/en/download/)
 * Install [git](https://git-scm.com/downloads)
 * In cmdline/bash run:
@@ -15,10 +18,6 @@ This code war game utilizes [conway's Game Of Life](https://en.wikipedia.org/wik
 where the next position of the board is calculated by subjecting the current board to 4 simple [rules](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Rules)
 
 The objective of this game is to send your pixels to the other side of the screen, scoring a hit and decreasing your opponent's life force, While defending your side against such invaders.
-
-**This is the gameboard:**
-
-![code war image](https://github.com/codearmada/codewar2018/blob/master/sample.gif "code war!")
 
 **Be sure to use these tips:**
 * download and install [golly](https://sourceforge.net/projects/golly/files/golly/golly-3.2/)
