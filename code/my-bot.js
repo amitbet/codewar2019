@@ -2,7 +2,7 @@
 
 (function () {
 
-    var spaceShip = "3o$o2bo$o$o$bo!"; //lightweight spaceShip 8
+    var spaceShip = "3o$o2bo$o$o$bobo!"; //lightweight spaceShip 8
     var lGlider = "3o$o$bo!"; //glider 5
     var rGlider = "3o$2bo$bo!"; //glilder 5
     var preblock = "2o$o!"; // pre block 3
