@@ -26,4 +26,4 @@ The objective of this game is to send your pixels to the other side of the scree
 * search for patters on [lifewiki site](http://www.conwaylife.com/wiki/Category:Patterns)
 * I have included a nice RLE to pixels routine to make it easier to import patterns from Golly/LifeWiki, you can just copy the shape in golly and paste as string into your code.
 * If you wish for simpler code, the bots contain a more mundane implementation that puts pixels without using RLE format.
-* Do not take my-bot.js code for granted, **you can improve every aspect of it**
+* Do not just use my-bot.js code as is, **you can improve every aspect of it**
