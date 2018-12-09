@@ -13,6 +13,7 @@ where the next position of the board is calculated by subjecting the current boa
 The objective of this game is to send your pixels to the other side of the screen, scoring a hit and decreasing your opponent's life force, While defending your side against such invaders.
 
 **This is the game:**
+
 ![code war image](https://github.com/codearmada/codewar2018/blob/master/sample.gif "code war!")
 
 
