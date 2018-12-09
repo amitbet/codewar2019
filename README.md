@@ -16,8 +16,7 @@ The objective of this game is to send your pixels to the other side of the scree
 
 ![code war image](https://github.com/codearmada/codewar2018/blob/master/sample.gif "code war!")
 
-
 **Be sure to use these tips:**
 * download and install [golly](https://sourceforge.net/projects/golly/files/golly/golly-3.2/)
 * search for patters on [lifewiki site](http://www.conwaylife.com/wiki/Category:Patterns)
-* I have included a nice RLE to pixels routine to make it easier to import patterns from Golly/LifeWiki (just copy and paste)
+* I have included a nice RLE to pixels routine to make it easier to import patterns from Golly/LifeWiki, you can just copy the shape in golly and paste as string into your code.
