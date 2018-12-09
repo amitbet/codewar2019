@@ -1,7 +1,7 @@
 # Codewar 2018
 ![code war image](https://github.com/codearmada/codewar2018/blob/master/sample.gif "code war!")
 
-code war based on game of life
+A CodeWar bot game based on Conway's game of life.
 
 **To install the developer environment:**
 * [Download NodeJS](https://nodejs.org/en/download/)
