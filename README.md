@@ -4,6 +4,7 @@ to install the developer environment:
 * [Download NodeJS](https://nodejs.org/en/download/)
 * install [git](https://git-scm.com/downloads)
 * in cmdline/bash run:
+
   git clone https://github.com/codearmada/codewar2018.git
 * install node-static globally (install.cmd or install.sh script)
 * run the (run.cmd / run.sh) script
