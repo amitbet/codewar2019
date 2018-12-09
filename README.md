@@ -1,4 +1,4 @@
-# codewar2018
+# Codewar 2018
 code war based on game of life
 to install the developer environment: 
 * [Download NodeJS](https://nodejs.org/en/download/)
