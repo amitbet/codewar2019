@@ -10,3 +10,7 @@ to install the developer environment:
 * download and install [golly](https://sourceforge.net/projects/golly/files/golly/golly-3.2/)
 * search for patters on [lifewiki site](http://www.conwaylife.com/wiki/Category:Patterns)
 * I have included a nice RLE to pixels routine to make it easier to import patterns from golly/lifeWiki (just copy and paste)
+
+![alt text][https://github.com/codearmada/codewar2018/blob/master/sample.gif]
+
+
