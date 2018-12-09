@@ -23,7 +23,7 @@ The objective of this game is to send your pixels to the other side of the scree
 **Be sure to use these tips:**
 * download and install [golly](https://sourceforge.net/projects/golly/files/golly/golly-3.2/)
 
-golly is a studio where you can experiment with game of life patterns and see how they develop and interact
+  golly is a studio where you can experiment with game of life patterns and see how they develop and interact
 * search for patters on [lifewiki site](http://www.conwaylife.com/wiki/Category:Patterns)
 * I have included a nice RLE to pixels routine to make it easier to import patterns from Golly/LifeWiki, you can just copy the shape in golly and paste as string into your code.
 * If you wish for simpler code, the bots contain a more mundane implementation that puts pixels without using RLE format.
