@@ -8,7 +8,7 @@ A CodeWar bot game based on Conway's game of life.
 * Install [git](https://git-scm.com/downloads)
 * In cmdline/bash run:
 
-  **git clone https://github.com/codearmada/codewar2018.git**
+  **git clone https://github.com/amitbet/codewar2018.git**
 * Install node-static globally (install.cmd or install.sh script)
 * Run the (run.cmd / run.sh) script
 * Open (http://localhost:60606)
@@ -29,7 +29,7 @@ The objective of this game is to send your pixels to the other side of the scree
 * Do not just use my-bot.js code as is, **you can improve every aspect of it**
 
 ## Golly:
-![Golly Image](https://github.com/codearmada/codewar2018/blob/master/golly.jpg "golly")
+![Golly Image](https://github.com/amitbet/codewar2018/blob/master/golly.jpg "golly")
 **Now just paste it into your code to get:**
 x = 4, y = 4, rule = B3/S23
 o$bo$2bo$3bo!
