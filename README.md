@@ -20,15 +20,17 @@ where the next position of the board is calculated by subjecting the current boa
 The objective of this game is to send your pixels to the other side of the screen, scoring a hit and decreasing your opponent's life force, while defending your side against such invaders.
 
 ## Tips
+* Use Golly to create patterns and copy them into code (instructions below)
+* If you wish for simpler code, the bots contain a more mundane implementation that puts pixels without using RLE format.
+* Do not just use my-bot.js code as is, **you can improve every aspect of it**
+* Search for helpful patters on [lifewiki site](http://www.conwaylife.com/wiki/Category:Patterns)
+
+## Golly:
 * Download and install [golly](https://sourceforge.net/projects/golly/files/golly/golly-3.2/)
 
   Golly is a studio where you can experiment with game of life patterns and see how they develop and interact
-* Search for helpful patters on [lifewiki site](http://www.conwaylife.com/wiki/Category:Patterns)
 * I have included a nice RLE to pixels routine to make it easier to import patterns from Golly/LifeWiki, you can just copy the shape in golly and paste as string into your code.
-* If you wish for simpler code, the bots contain a more mundane implementation that puts pixels without using RLE format.
-* Do not just use my-bot.js code as is, **you can improve every aspect of it**
 
-## Golly:
 ![Golly Image](https://github.com/amitbet/codewar2018/blob/master/golly.jpg "golly")
 **Now just paste it into your code to get:**
 x = 4, y = 4, rule = B3/S23
