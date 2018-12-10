@@ -39,9 +39,9 @@ x = 4, y = 4, rule = B3/S23
 o$bo$2bo$3bo!
 
 Use the last bit as a string that will represent the pattern:
-
+```
 var diagonalLine = "o$bo$2bo$3bo!"; // diagnoal line cost=4 pixels
 
 pixels = tryPlaceRle(data, diagonalLine, 4);
-
+```
 
