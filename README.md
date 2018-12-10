@@ -33,11 +33,15 @@ The objective of this game is to send your pixels to the other side of the scree
 
 ![Golly Image](https://github.com/amitbet/codewar2018/blob/master/golly.jpg "golly")
 **Now just paste it into your code to get:**
+
 x = 4, y = 4, rule = B3/S23
+
 o$bo$2bo$3bo!
 
 Use the last bit as a string that will represent the pattern:
+
 var diagonalLine = "o$bo$2bo$3bo!"; // diagnoal line cost=4 pixels
+
 pixels = tryPlaceRle(data, diagonalLine, 4);
 
 
