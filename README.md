@@ -27,3 +27,15 @@ The objective of this game is to send your pixels to the other side of the scree
 * I have included a nice RLE to pixels routine to make it easier to import patterns from Golly/LifeWiki, you can just copy the shape in golly and paste as string into your code.
 * If you wish for simpler code, the bots contain a more mundane implementation that puts pixels without using RLE format.
 * Do not just use my-bot.js code as is, **you can improve every aspect of it**
+
+## Golly:
+![Golly Image](https://github.com/codearmada/codewar2018/blob/master/golly.jpg "golly")
+**Now just paste it into your code to get:**
+x = 4, y = 4, rule = B3/S23
+o$bo$2bo$3bo!
+
+Use the last bit as a string that will represent the pattern:
+var diagonalLine = "o$bo$2bo$3bo!"; // diagnoal line cost=4 pixels
+pixels = tryPlaceRle(data, diagonalLine, 4);
+
+
