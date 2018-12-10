@@ -1,4 +1,4 @@
-//INPROVE THIS CODE
+//IMPROVE THIS CODE
 
 (function () {
 
