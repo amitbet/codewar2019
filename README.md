@@ -1,4 +1,4 @@
-# Codewar 2018
+# Codewar 2019
 ![code war image](https://github.com/codearmada/codewar2018/blob/master/sample.gif "code war!")
 
 A CodeWar bot game based on Conway's game of life.
