@@ -1,5 +1,5 @@
 # Codewar 2019
-![code war image](https://github.com/codearmada/codewar2019/blob/master/sample.gif "code war!")
+![code war image](https://github.com/amitbet/codewar2019/blob/master/sample.gif "code war!")
 
 A CodeWar bot game based on Conway's game of life.
 
