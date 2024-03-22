@@ -81,7 +81,7 @@ function GolBoard() {
 			blue: blueCount,
 			red: redCount
 		}
-		console.log(retval);
+		//console.log(retval);
 		return retval;
 	}
 
